@@ -20,6 +20,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
   font-family: var(--font-main);
+  color: var(--text-color);
+  background-color: var(--background-color);
+  font-weight: 600;
+
 }
 
 main {
@@ -63,9 +67,27 @@ footer {
   text-align: center;
   font-family: var(--font-footer);
   font-size: 26px;
+  gap: 4px;
 }
 
-footer img{
-    max-width: 24px;
-    height: 24px;
+footer img {
+  max-width: 24px;
+  height: 24px;
+  margin: auto;
+}
+
+.github{
+  display: flex;
+}
+
+a{
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+input{
+  border-radius: 12px;
+  height: 40px ;
+  width: 414px ;
+  border: 0px solid black;
 }
