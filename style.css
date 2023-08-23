@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600&family=Outfit:wght@600&display=swap");
+
+:root {
+  --footer-color: #bfbfbf;
+  --background-color: #f1f1f1;
+  --text-color: #252525;
+  --font-main: "Be Vietnam Pro", sans-serif;
+  --font-footer: "Outfit", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: var(--font-main);
+}
+
+main {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 15vh;
+}
+
+.icons {
+  display: flex;
+  gap: 10vw;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  cursor: pointer;
+}
+
+.titre {
+  text-align: center;
+  font-size: 36px;
+  text-transform: capitalize;
+}
+
+.card img {
+  max-width: 185px;
+  max-height: 210px;
+}
+
+footer {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--footer-color);
+  text-align: center;
+  font-family: var(--font-footer);
+  font-size: 26px;
+}
+
+footer img{
+    max-width: 24px;
+    height: 24px;
+}
