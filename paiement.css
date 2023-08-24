@@ -13,13 +13,14 @@
 }
 
 .container {
-  height: 70vh;
+  height: 75vh;
   width: 50vw;
   background-color: #dfdfdf;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  gap: 12px;
   border-radius: 36px;
   padding: 26px;
 }
