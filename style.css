@@ -40,7 +40,7 @@ a {
 }
 
 footer {
-  height: 60px;
+  min-height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -59,22 +59,4 @@ footer img {
 
 .github {
   display: flex;
-}
-
-/* Media query */
-
-@media only screen and (max-width: 768px) {
-}
-
-@media only screen and (max-width: 480px) {
-  .icons {
-    flex-direction: column;
-  }
-  .card :not(:last-child) {
-    margin: 24px;
-  }
-  main {
-    margin: 24px;
-    gap: 0;
-  }
 }
