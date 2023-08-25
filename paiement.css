@@ -1,15 +1,15 @@
 .arrow {
   margin: 24px;
   background-color: #21a44a;
-  height: 74px;
-  width: 74px;
+  height: 45px;
+  width: 45px;
   border-radius: 50%;
   position: absolute;
 }
 
 .arrow img {
-  max-height: 74px;
-  max-width: 74px;
+  max-height: 45px;
+  max-width: 45px;
 }
 
 .container {
@@ -154,6 +154,6 @@ button {
   }
 
   footer {
-    font-size: 12px;
+    font-size: 16px;
   }
 }
