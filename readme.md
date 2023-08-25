@@ -7,7 +7,7 @@ This project involves a complete overhaul of the current university registration
 ## Before and After
 
 ### Before Redesign
-[first page desktop](/old%20design/old%20izan%20algeria%20website.png)
+![first page desktop](/old%20design/old%20izan%20algeria%20website.png)
 [first page mobile](/old%20design/old%20izan%20algeria%20website%20mobile.png)
 [second page desktop](/old%20design/old%20izan%20algeria%20website%202.png)
 [second page mobile](/old%20design/old%20izan%20algeria%20website%202%20mobile.png)
