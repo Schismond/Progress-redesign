@@ -19,9 +19,6 @@ This project involves a complete overhaul of the current university registration
 ![second page desktop](/New%20design/page%202%20desktop.png)
 ![second page mobile](/New%20design/Page%202%20android.png)
 
-## Technologies Used 
-
-I used Only HTML and CSS , I didn't implement Javascript cause I wanted to only change the old design that seemed so UGLY and of course cause I don't have access to university database.
 
 ### Links
 
